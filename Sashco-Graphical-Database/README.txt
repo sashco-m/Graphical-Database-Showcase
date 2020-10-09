@@ -1,6 +1,6 @@
 Tourism Agency Customer Advertising Database (TACAD)
 
-Copyright © 2020 Philip & Sashco International
+Copyright Â© 2020 Philip & Sashco International
 
 Programmed by Philip Harker and Sashco Mistelbacher
 Submitted on 14 January 2020
@@ -30,7 +30,7 @@ John/Doe/123 Street Rd./416-555-6789/20/50000
 
 Name the file "accounts.txt" and store it in the TACAD folder.
 
-To run the program, execute AgencyUser.java with any JDK.
+To run the program, execute Sashco-Grpahical-Database.exe.
 
 -------------------------------------------------------------------
 
