@@ -30,7 +30,7 @@ John/Doe/123 Street Rd./416-555-6789/20/50000
 
 Name the file "accounts.txt" and store it in the TACAD folder.
 
-To run the program, execute Sashco-Grpahical-Database.exe.
+To run the program, execute Sashco-Graphical-Database.exe.
 
 -------------------------------------------------------------------
 
